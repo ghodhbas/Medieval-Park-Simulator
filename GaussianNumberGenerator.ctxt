@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GaussianNumberGenerator
+comment0.text=\r\nThis\ class\ is\ responsible\ for\ generating\ integer\ numbers\ with\ gaussian\r\nnormal\ destribution\r\n
+comment1.params=
+comment1.target=GaussianNumberGenerator()
+comment1.text=constructor\ without\ seed
+comment2.params=seed
+comment2.target=GaussianNumberGenerator(long)
+comment2.text=constructor\ with\ seed\r\n\ @param\ seed\ -\ seed\ for\ random\ generator\r\n
+comment3.params=mean\ stdDev
+comment3.target=int\ generate(double,\ double)
+comment3.text=generate\ a\ double\ random\ number\ from\ mean\ and\ standard\ deviation\r\n\ @param\ mean\ -\ mean\ of\ groups\ arriving\ per\ time\ step\r\n\ @param\ stdDev\ -\ standard\ Deviation\ of\ groups\ arriving\ per\ time\ step\r\n
+numComments=4

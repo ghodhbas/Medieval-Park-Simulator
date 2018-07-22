@@ -1,0 +1,2 @@
+Average total wait: 0.9478461 steps
+total percentage of injured people 17.655777

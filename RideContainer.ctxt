@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RideContainer
+comment0.text=\r\nClass\ container\ containing\ rides\r\n
+comment1.params=
+comment1.target=RideContainer()
+comment1.text=Constructor\ for\ objects\ of\ class\ RideContainer
+comment2.params=ride
+comment2.target=void\ addRide(Ride)
+comment2.text=add\ ride\ to\ container\r\n\ @param\ ride\ -\ ride\ to\ be\ added\ to\ the\ container\r\n
+comment3.params=i
+comment3.target=Ride\ getRide(int)
+comment3.text=getter\ for\ ride\r\n\ @param\ i\ -\ the\ position\ of\ the\ ride\ int\ the\ container\r\n\ @return\ the\ ride\ in\ the\ position\ i\r\n
+comment4.params=
+comment4.target=int\ getSize()
+comment4.text=getter\ for\ size\r\n\ @return\ the\ size\ of\ the\ container\r\n
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\r\nThis\ class\ is\ responsible\ of\ reading\ and\ initializing\ data\ and\ passing\ it\ to\ the\ Park\ class\r\nThis\ class\ is\ the\ controller\ /\ commander\ of\ the\ program.\ \r\nIt\ reads\ the\ name\ of\ the\ Configuration\ and\ Parameter\ files\ (uses\ ConfigFileReader.java\ and\ ParamFileReader.java\ to\ deconstruct\ them\ and\ saves\ the\ data),\r\nit\ initialize\ the\ park,\ and\ runs\ the\ simulation\ while\ writing\ the\ output\ in\ 3\ different\ output\ files.\ \r\nThis\ class\ controls\ how\ the\ simulation\ will\ run\ and\ gets\ the\ inputs\ and\ outputs.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=main\ method\ that\ runs\ the\ program
+numComments=2

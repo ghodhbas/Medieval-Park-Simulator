@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RandomNumberGenerator
+comment0.text=\r\n\ class\ responsible\ for\ generating\ a\ random\ float\ between\ 0\ and\ 1\r\n
+comment1.params=
+comment1.target=RandomNumberGenerator()
+comment1.text=constructor\ without\ seed
+comment2.params=seed
+comment2.target=RandomNumberGenerator(long)
+comment2.text=constructor\ with\ seed\r\n\ @param\ seed\ -\ seed\ for\ the\ random\ generator\r\n
+comment3.params=
+comment3.target=float\ generateFloat()
+comment3.text=generate\ a\ random\ float\ between\ 0\ and\ 1\r\n\ @return\ random\ float\ generated\r\n
+comment4.params=minRank\ maxRank
+comment4.target=int\ generateRank(int,\ int)
+comment4.text=generate\ a\ rank\ within\ \ the\ range\r\n\ @param\ minRank\ -\ minimum\ rank\ to\ be\ genrated\r\n\ @param\ maxRank\ -\ maximum\ rank\ to\ be\ generated\r\n\ @return\ random\ rank\ generated\r\n
+comment5.params=
+comment5.target=int\ generateInjury()
+comment5.text=generates\ an\ injury\ roll\ between\ 1-100\r\n\ @return\ generate\ possibility\ to\ be\ injured\r\n
+numComments=6

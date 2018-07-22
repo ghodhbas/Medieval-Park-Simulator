@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Park
+comment0.text=the\ class\ that\ will\ controles\ the\ park\r\n
+comment1.params=seed\ config\ param
+comment1.target=Park(int,\ ConfigFileReader,\ ParamFileReader)
+comment1.text=\ Constructor\ for\ objects\ of\ class\ Park\r\n\ @param\ seed\ -\ seed\ for\ the\ random\ generator\r\n\ @param\ config\ -\ contains\ the\ information\ from\ config\ file\r\n\ @param\ param\ -\ contains\ the\ parameters\ of\ the\ simulation\r\n
+comment2.params=
+comment2.target=void\ init()
+comment2.text=intitialize\ the\ park
+comment3.params=seed
+comment3.target=void\ run(int)
+comment3.text=run\ the\ simulation
+comment4.params=
+comment4.target=float\ getInjuryRatio()
+comment4.text=get\ rides\ in\ park\r\n\ @return\ the\ injury\ ratio\ in\ the\ park\r\n
+comment5.params=
+comment5.target=float\ getAvgWaitTime()
+comment5.text=get\ average\ wait\ Time\r\n\ @return\ the\ average\ wait\ time\ in\ the\ park\r\n
+numComments=6

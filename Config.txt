@@ -1,0 +1,56 @@
+Park
+Space 2650 (closest to 5 of each type of ride)
+
+ride
+group royals,knights,worriors
+length 2
+queue 30
+capacity 10
+space 20
+type battleground
+injury 28
+
+ride
+type dungeon
+group royals,knights,worriors
+space 10
+length 3
+queue 100
+capacity 20
+injury 33
+
+ride
+type arena
+injury 55
+capacity 50
+queue 80
+space 90
+length 15
+group royals,knights
+
+ride
+type armory
+group royals,knights,worriors,servants,peasants
+space 30
+length 5
+queue 50
+capacity 30
+injury 20
+
+ride
+type knife fight
+group servants,peasants
+space 40
+length 4
+queue 80
+capacity 30
+injury 40
+
+people
+arrival 15 4
+groupDistribution 0.2 0.4 1
+friendRank 0.4 0.8 1
+numberFriend 4 2
+numberComp 2 1
+rankComp 11 4
+individual 0.6 0.8 1

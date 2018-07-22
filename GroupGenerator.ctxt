@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GroupGenerator
+comment0.text=Generates\ groups\r\n
+comment1.params=indivDistrib\ friendsDistrib\ familyDistrib\ indivWorriorRange\ indivKnightRange\ indivRoyalRange\ numberCompanionMean\ numberCompanionStd\ rankCompanionMean\ rankCompanionStd\ numberFriendsMean\ numberFriendsStd\ friendsWorriorRankRange\ friendsKnightsRankRange\ friendsRoyalsRankRange
+comment1.target=GroupGenerator(float,\ float,\ float,\ float,\ float,\ float,\ int,\ int,\ int,\ int,\ int,\ int,\ float,\ float,\ float)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GroupGenerator\r\n\ @param\ indivDistrib\ -\ individual\ distribution\ \r\n\ @param\ friendsDistrib\ -\ friends\ distribution\ \r\n\ @param\ familyDistrib\ -\ family\ distribution\ \r\n\ @param\ indivWorriorRange\ -\ individual\ worrior\ Range\ \r\n\ @param\ indivKnightRange\ -\ individual\ knight\ Range\ \r\n\ @param\ indivRoyalRange\ -\ individual\ royal\ Range\ \r\n\ @param\ numberCompanionMean\ -\ mean\ of\ number\ of\ companion\r\n\ @param\ numberCompanionStd\ -\ standard\ deviation\ of\ number\ of\ companion\r\n\ @param\ rankCompanionMean\ -\ \ mean\ of\ the\ rank\ of\ companions\r\n\ @param\ rankCompanionStd\ -\ standard\ deviation\ of\ the\ companion\r\n\ @param\ numberFriendsMean\ -\ mean\ of\ the\ number\ of\ freinds\r\n\ @param\ numberFriendsStd\ -\ standard\ deviation\ of\ the\ number\ of\ friends\r\n\ @param\ friendsWorriorRankRange\ -\ rank\ range\ for\ the\ worriors\ in\ a\ group\ of\ friends\r\n\ @param\ friendsKnightsRankRange\ -\ rank\ range\ for\ the\ knights\ in\ a\ group\ of\ friends\r\n\ @param\ friendsRoyalsRankRange\ -rank\ range\ for\ the\ worriors\ in\ a\ group\ of\ friends\r\n\ \r\n
+comment2.params=seed\ indivDistrib\ friendsDistrib\ familyDistrib\ indivWorriorRange\ indivKnightRange\ indivRoyalRange\ numberCompanionMean\ numberCompanionStd\ rankCompanionMean\ rankCompanionStd\ numberFriendsMean\ numberFriendsStd\ friendsWorriorRankRange\ friendsKnightsRankRange\ friendsRoyalsRankRange
+comment2.target=GroupGenerator(long,\ float,\ float,\ float,\ float,\ float,\ float,\ int,\ int,\ int,\ int,\ int,\ int,\ float,\ float,\ float)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ GroupGenerator\r\n\ @param\ seed\ -\ seed\ for\ number\ generator\r\n\ @param\ indivDistrib\ -\ individual\ distribution\ \r\n\ @param\ friendsDistrib\ -\ friends\ distribution\ \r\n\ @param\ familyDistrib\ -\ family\ distribution\ \r\n\ @param\ indivWorriorRange\ -\ individual\ worrior\ Range\ \r\n\ @param\ indivKnightRange\ -\ individual\ knight\ Range\ \r\n\ @param\ indivRoyalRange\ -\ individual\ royal\ Range\ \r\n\ @param\ numberCompanionMean\ -\ mean\ of\ number\ of\ companion\r\n\ @param\ numberCompanionStd\ -\ standard\ deviation\ of\ number\ of\ companion\r\n\ @param\ rankCompanionMean\ -\ \ mean\ of\ the\ rank\ of\ companions\r\n\ @param\ rankCompanionStd\ -\ standard\ deviation\ of\ the\ companion\r\n\ @param\ numberFriendsMean\ -\ mean\ of\ the\ number\ of\ freinds\r\n\ @param\ numberFriendsStd\ -\ standard\ deviation\ of\ the\ number\ of\ friends\r\n\ @param\ friendsWorriorRankRange\ -\ rank\ range\ for\ the\ worriors\ in\ a\ group\ of\ friends\r\n\ @param\ friendsKnightsRankRange\ -\ rank\ range\ for\ the\ knights\ in\ a\ group\ of\ friends\r\n\ @param\ friendsRoyalsRankRange\ -rank\ range\ for\ the\ worriors\ in\ a\ group\ of\ friends\r\n\ \r\n
+comment3.params=
+comment3.target=Group\ generate()
+comment3.text=generates\ a\ random\ group\r\n\ @return\ the\ generated\ group\r\n
+comment4.params=
+comment4.target=Individual\ generateIndividual()
+comment4.text=generates\ an\ individual\r\n\ @return\ the\ induvidual\ generated\r\n
+comment5.params=
+comment5.target=Family\ generateFamily()
+comment5.text=\ generates\ a\ family\r\n\ @return\ the\ Family\ generated\r\n
+comment6.params=
+comment6.target=Peers\ generatePeers()
+comment6.text=\ generates\ a\ peer\ group\r\n\ @return\ the\ peers\ generated\r\n
+numComments=7

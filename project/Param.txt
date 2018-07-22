@@ -1,0 +1,19 @@
+ride
+type arena
+number 0
+
+ride
+type dungeon
+number 0
+
+ride
+type battleground
+number 21
+
+ride
+type armory
+number 20
+
+ride
+type knife fight
+number 0

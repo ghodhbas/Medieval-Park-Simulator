@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GroupContainer
+comment0.text=this\ class\ will\ hold\ the\ different\ groups\ of\ peope\ in\ the\ park\r\n
+comment1.params=
+comment1.target=GroupContainer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GroupContainer\r\n
+comment2.params=g
+comment2.target=void\ addGroup(Group)
+comment2.text=\ adds\ a\ group\ to\ the\ container\r\n\ @param\ g\ -\ group\ to\ add\ to\ container\r\n
+comment3.params=i
+comment3.target=void\ removeGroup(int)
+comment3.text=removes\ Group\r\n\ @param\ i\ -\ the\ position\ of\ the\ group\ to\ be\ removed\r\n
+comment4.params=i
+comment4.target=Group\ getGroup(int)
+comment4.text=\ get\ a\ group\ from\ container\ at\ position\ i\r\n\ @param\ i\ -\ the\ position\ of\ the\ group\ to\ get\r\n
+comment5.params=
+comment5.target=int\ getSize()
+comment5.text=return\ the\ size\ of\ the\ group\ container
+comment6.params=
+comment6.target=void\ clear()
+comment6.text=clear\ the\ group\ Container
+numComments=7
